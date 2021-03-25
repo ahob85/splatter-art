@@ -11,3 +11,14 @@ body {
 }
 
 /* Create your styles below */
+#canvas-area {
+  margin: 10px auto;
+  border: 1px solid #ff0000;
+  width: 500px;
+  height: 400px;
+}
+
+#clear-button {
+  display: block;
+  margin: 10px auto;
+}
